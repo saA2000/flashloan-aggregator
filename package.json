@@ -40,7 +40,7 @@
     "hardhat-deploy-ethers": "^0.3.0-beta.10",
     "inquirer": "^8.2.0",
     "replace-in-file": "^6.2.0",
-    "solc": "^0.6.12"
+    "solc": "^0.8.17"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
